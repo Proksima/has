@@ -3,7 +3,7 @@
 This crate offers an alternative for a missing feature of the Rust Programming Language. That
 is, the possibility for traits to hold states.
 
-[[![](http://meritbadge.herokuapp.com/has)](https://crates.io/crates/has)
+[![](http://meritbadge.herokuapp.com/has)](https://crates.io/crates/has)
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 [![Travis Build Status](https://travis-ci.org/Proksima/has.svg?branch=master)](https://travis-ci.org/Proksima/has)
 
