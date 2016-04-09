@@ -1,0 +1,13 @@
+[package]
+
+name          = "has"
+version       = "0.1.0"
+authors       = ["Damien Levac <damien.levac@gmail.com>"]
+description   = "Introducing 'has a' relationship for Rust's traits."
+documentation = "http://proksima.github.io/has-doc/has/index.html"
+homepage      = "https://github.com/Proksima/has"
+repository    = "https://github.com/Proksima/has"
+readme        = "README.md"
+keywords      = ["oop", "has", "hasa", "object", "paradigm"]
+license       = "MPL-2.0"
+
